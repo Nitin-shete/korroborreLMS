@@ -1,0 +1,44 @@
+home page 
+           1 slider_home.php                // slider here all 
+	      2 most_popular_E-resources.php   // most populer e-resources cantent 
+		3 why_lms.php                     // why lms is best /happy say student
+	  4  bg_cover.php                    //  Milestone slider  number / (about page also )
+	5  Pricing_Detail.php                // Pricing Details
+   6 upcoming_course.php                // upcoming course 
+
+
+
+about page       1 bg_cover.php    //  Milestone slider  numbers
+                  2 why_lms.php     // why lms is best /happy say student 
+                 3 our_faculty     //  all facuty informatin
+
+
+E-resources page(list)  (e-resources controller) 
+								1 e_resource_categories.php // E-Resources categories
+   								2  populer_e_resources_box.php // populer E_resourses left bar         
+   							    3 e_resourcesall.php    // here all E-resources
+   							    4 e_resource_video_intro.php // intro video course
+
+
+E-resource page (single e_resource)	
+
+ 1 e_resources_descript.php // E_Resources Description/What You Will Learn						  
+ 2 e_resource_categories.php // E-Resources categories 
+ 3 populer_e_resources_box.php  // populer E_resourses left bar
+ 4 take_e_resource.php       // take E-Resource  box
+ 5 e_resource_video_intro.php // intro video course
+ 6 e_resources_highlight.php  //  e_resources highlight.php
+
+
+
+
+course  (single)    1  course_categories.php  //  all course_categories left box 
+					2 populer_courses_box.php    // populer courses left bar
+					3 take_course.php       // take course box
+					4 course_intro_video.php // intro video course
+					5 course_descript.php  //  course description here 
+					6 course_highlight.php  // course highlight (single course highligt)
+
+					
+
+
